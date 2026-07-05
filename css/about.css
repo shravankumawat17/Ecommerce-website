@@ -1,6 +1,4 @@
-/* ===========================
-   GOOGLE FONT
-=========================== */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
@@ -22,9 +20,6 @@ body{
 }
 
 
-/* ===========================
-   COMMON
-=========================== */
 
 .container{
     width:90%;
@@ -55,10 +50,6 @@ section{
     border-radius:50px;
 }
 
-
-/* ===========================
-   HERO
-=========================== */
 
 .about-hero{
     background:#f7faf7;
@@ -91,10 +82,6 @@ section{
 }
 
 
-/* ===========================
-   STORY
-=========================== */
-
 .story-content{
     max-width:850px;
     margin:auto;
@@ -107,10 +94,6 @@ section{
     text-align:justify;
 }
 
-
-/* ===========================
-   MISSION
-=========================== */
 
 .mission-section{
     background:#f8faf8;
@@ -128,9 +111,6 @@ section{
 }
 
 
-/* ===========================
-   VALUES
-=========================== */
 
 .values-grid{
     display:grid;
@@ -181,10 +161,6 @@ section{
 }
 
 
-/* ===========================
-   FOUNDER
-=========================== */
-
 .founder{
 
     background:#ffffff;
@@ -222,7 +198,7 @@ section{
 
 }
 
-/* Founder Image */
+
 
 .founder-image{
 
@@ -245,7 +221,7 @@ section{
 
 }
 
-/* Decorative Border */
+
 
 .founder-image::after{
 
@@ -323,7 +299,6 @@ section{
 
 }
 
-/* Signature */
 
 .signature{
 
@@ -358,9 +333,7 @@ section{
     object-fit: cover;
 
 }
-/* ===========================
-   CTA
-=========================== */
+
 
 .about-cta{
 
@@ -407,10 +380,6 @@ section{
     background:#256428;
 }
 
-
-/* ===========================
-   RESPONSIVE
-=========================== */
 
 @media(max-width:900px){
 
